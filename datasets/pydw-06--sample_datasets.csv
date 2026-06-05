@@ -1,0 +1,17 @@
+order_id,customer_name,category,sales,quantity
+5001,John Doe,Electronics,1200,2
+5002,Jane Smith,Furniture,850,1
+5003,Rahul Nair,Clothing,450,3
+5004,Anita Menon,Electronics,-500,2
+5005,David Lee,Furniture,700,0
+5006,Chris Evans,Toys,300,2
+5007,Sara Khan,Electronics,2200,3
+5008,Michael Tan,Furniture,,1
+5009,Arjun Pillai,Clothing,500,4
+5010,Emma Watson,Electronics,1800,2
+5001,John Doe,Electronics,1200,2
+5011,Noah Brown,Games,900,1
+5012,Liam Davis,Clothing,-100,2
+5013,Olivia Wilson,,2100,2
+5014,Ava Thomas,Furniture,780,1
+5015,Sophia Davis,Electronics,1500,2

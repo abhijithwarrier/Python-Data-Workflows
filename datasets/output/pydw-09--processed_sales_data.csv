@@ -1,0 +1,21 @@
+order_id,customer_name,category,region,sales,quantity,order_date,revenue_per_item,sales_category
+7001,John Doe,Electronics,North,1200.0,2.0,2024-08-01,600.0,Medium
+7002,Jane Smith,Furniture,South,850.0,1.0,2024-08-01,850.0,Low
+7003,Rahul Nair,Clothing,West,450.0,3.0,2024-08-02,150.0,Low
+7004,Anita Menon,Electronics,East,1500.0,1.0,2024-08-02,1500.0,Medium
+7005,David Lee,Furniture,North,700.0,2.0,2024-08-03,350.0,Low
+7006,Chris Evans,Clothing,South,300.0,2.0,2024-08-03,150.0,Low
+7007,Sara Khan,Electronics,West,2200.0,3.0,2024-08-04,733.3333333333334,High
+7008,Michael Tan,Furniture,East,650.0,1.0,2024-08-04,650.0,Low
+7009,Arjun Pillai,Clothing,North,710.0,4.0,2024-08-05,177.5,Low
+7010,Emma Watson,Electronics,South,1800.0,2.0,2024-08-05,900.0,Medium
+7011,Noah Brown,Furniture,West,-500.0,2.0,2024-08-06,-250.0,Low
+7012,Liam Davis,Clothing,East,350.0,1.0,2024-08-06,350.0,Low
+7013,Olivia Wilson,Electronics,North,2100.0,2.0,2024-08-07,1050.0,High
+7014,Ava Thomas,Furniture,South,780.0,1.0,2024-08-07,780.0,Low
+7015,Ethan Clark,Clothing,West,400.0,2.0,2024-08-08,200.0,Low
+7016,Sophia Lewis,Electronics,East,1700.0,1.0,2024-08-08,1700.0,Medium
+7017,Isabella Hall,Furniture,North,620.0,2.0,2024-08-09,310.0,Low
+7018,Mason Allen,Clothing,South,320.0,1.0,2024-08-09,320.0,Low
+7019,Lucas Young,Electronics,West,2500.0,3.0,2024-08-10,833.3333333333334,High
+7020,Mia King,Furniture,East,710.0,2.0,2024-08-10,355.0,Low
